@@ -6,7 +6,11 @@ Educate others about recognizing and avoiding phishing emails, websites, and soc
 This Presentation on Phishing Covers
 
 Introduction to Phishing Attacks
+
 Types of Phishing Attacks
+
 Phishing Attacks in Social Media
+
 Ways to Detect Phishing Attacks
+
 Prevention of Phishing Attacks
